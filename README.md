@@ -1,4 +1,5 @@
-# apollo-es
+# apollo-es 
+### Apollo Example Server
 
 - git clone https://github.com/aleksandrenko/apollo-es.git
 - cd apollo-es
